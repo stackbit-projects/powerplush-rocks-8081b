@@ -45,7 +45,7 @@ sections:
         image_align: center
     grid_cols: three
     grid_gap_horiz: medium
-    grid_gap_vert: medium
+    grid_gap_vert: large
     section_id: social-media
     actions: []
 seo:
