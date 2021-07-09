@@ -48,16 +48,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     section_id: social-media
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
