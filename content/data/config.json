@@ -9,7 +9,7 @@
     "header": {
         "logo": "/images/logo_türkis.png",
         "logo_alt": "Power Plush Logo",
-        "has_primary_nav": false,
+        "has_primary_nav": true,
         "primary_nav_links": [
             {
                 "label": "Features",
