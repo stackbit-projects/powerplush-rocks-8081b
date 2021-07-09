@@ -9,7 +9,7 @@ sections:
         url: /pricing
         style: primary
     image: /images/cover_smthcool.jpg
-    image_alt: Hero section placeholder image
+    image_alt: Smth Cool Artwork
     media_position: left
     media_width: fifty
     align: left
