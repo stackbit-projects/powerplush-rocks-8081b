@@ -47,6 +47,7 @@ sections:
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
+    section_id: social-media
 seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
