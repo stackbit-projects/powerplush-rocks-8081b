@@ -11,7 +11,7 @@ sections:
     image: /images/cover_smthcool.jpg
     image_alt: Smth Cool Artwork
     media_position: top
-    media_width: fifty
+    media_width: fourty
     align: left
     padding_top: large
     padding_bottom: large
