@@ -44,17 +44,10 @@ sections:
       - image_alt: Git logo
         image_align: center
       - title_align: left
-        content: >-
-          ## Lorem ipsum
+        content: >
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          ![](https://facebookbrand.com/wp-content/uploads/2021/03/glyph-logo_May2016.png?w=300)
         content_align: left
         actions: []
         actions_align: left
