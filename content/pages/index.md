@@ -27,7 +27,7 @@ sections:
         image_alt: Instagram Logo links to power plush instagram profile
         image_align: center
         image_width: twenty-five
-      - image: images/logo-2.svg
+      - image: /images/facebook.svg
         image_alt: Netlify logo
         image_align: center
       - image: images/logo-3.svg
