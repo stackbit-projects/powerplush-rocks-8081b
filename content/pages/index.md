@@ -43,8 +43,7 @@ sections:
         image_align: center
       - image_alt: Git logo
         image_align: center
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
