@@ -16,6 +16,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
+    section_id: mainContent
   - type: grid_section
     title: Social Media
     align: center
