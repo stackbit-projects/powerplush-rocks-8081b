@@ -8,7 +8,7 @@ sections:
       - label: Listen
         url: /pricing
         style: primary
-    image: images/classic/hero.png
+    image: /images/cover_smthcool.jpg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
