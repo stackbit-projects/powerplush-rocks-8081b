@@ -8,7 +8,7 @@ sections:
       - label: Listen on Spotify
         url: >-
           https://open.spotify.com/track/42vJRcZZBZC9VZODVZmEjm?si=DzWZiJZ1QQGBAeTs_XVDHA&utm_source=copy-link&dl_branch=1
-        style: primary
+        style: link
         has_icon: true
     image: /images/cover_smthcool.jpg
     image_alt: Smth Cool Artwork
