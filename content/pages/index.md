@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: '"Smth Cool" is out now!'
-    subtitle: Optional hero section subtitle
+    subtitle: Check it out.
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
