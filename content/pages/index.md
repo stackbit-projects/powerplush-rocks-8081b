@@ -5,7 +5,7 @@ sections:
     title: '"Smth Cool" is out now!'
     subtitle: Check it out.
     actions:
-      - label: Try Free
+      - label: Listen
         url: /pricing
         style: primary
       - label: Learn More
