@@ -7,7 +7,7 @@
     "mode": "light",
     "base_font": "serif",
     "header": {
-        "logo": "images/classic/logo.svg",
+        "logo": "/images/logo_türkis.png",
         "logo_alt": "DIY logo",
         "has_primary_nav": true,
         "primary_nav_links": [
