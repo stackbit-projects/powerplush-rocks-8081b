@@ -98,7 +98,7 @@ export default class GridItem extends React.Component {
                                             'ml-auto': imageAlignX === 'right'
                                         })}
                                     />
-                                </div>
+                                </div>W
                             </div>
                         )}
                         {hasText && (
