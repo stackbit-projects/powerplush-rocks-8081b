@@ -24,7 +24,7 @@ sections:
     align: center
     grid_items:
       - image: /images/instagram.svg
-        image_alt: Contentful logo
+        image_alt: Instagram Logo links to power plush instagram profile
         image_align: center
       - image: images/logo-2.svg
         image_alt: Netlify logo
