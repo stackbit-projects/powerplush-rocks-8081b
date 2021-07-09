@@ -6,7 +6,8 @@ sections:
     subtitle: Check it out.
     actions:
       - label: Listen on Spotify
-        url: /pricing
+        url: >-
+          https://open.spotify.com/track/42vJRcZZBZC9VZODVZmEjm?si=DzWZiJZ1QQGBAeTs_XVDHA&utm_source=copy-link&dl_branch=1
         style: primary
     image: /images/cover_smthcool.jpg
     image_alt: Smth Cool Artwork
