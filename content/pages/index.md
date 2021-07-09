@@ -44,7 +44,7 @@ sections:
       - image_alt: Git logo
         image_align: center
     grid_cols: three
-    grid_gap_horiz: large
+    grid_gap_horiz: small
     grid_gap_vert: medium
     section_id: social-media
     actions: []
