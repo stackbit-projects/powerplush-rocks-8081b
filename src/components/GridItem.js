@@ -90,7 +90,7 @@ export default class GridItem extends React.Component {
                                         'mt-3': imagePosition === 'bottom' && hasText && (!isCard || hasImagePadding)
                                     })}
                                 >
-                                    <icon
+                                    <_icon
                                         src={withPrefix(image)}
                                         alt={imageAlt}
                                         className={classNames({
