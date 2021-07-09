@@ -5,7 +5,7 @@ sections:
     title: '"Smth Cool" is out now!'
     subtitle: Check it out.
     actions:
-      - label: Listen
+      - label: Listen on Spotify
         url: /pricing
         style: primary
     image: /images/cover_smthcool.jpg
